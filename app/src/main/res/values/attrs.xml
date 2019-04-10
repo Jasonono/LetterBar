@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LetterSideBar">
+        <attr name="lsb_text_size" format="dimension"/>
+        <attr name="lsb_text_color" format="color"/>
+        <attr name="lsb_select_text_color" format="color"/>
+    </declare-styleable>
+</resources>
